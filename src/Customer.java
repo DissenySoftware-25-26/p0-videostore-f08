@@ -2,7 +2,7 @@
 import java.util.Vector;
 import java.util.Enumeration;
 
-//Hola
+//Holajjjj
 public class Customer 
 {
 	private final String name;
