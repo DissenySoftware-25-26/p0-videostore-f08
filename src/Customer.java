@@ -5,6 +5,7 @@ import java.util.Enumeration;
 public class Customer 
 {
 	private final String name;
+
 	private Vector rentals = new Vector ();
 
 	public Customer (String name) {
