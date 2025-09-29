@@ -4,6 +4,7 @@ import java.util.Enumeration;
 
 public class Customer
 {
+
     private final String name;
     private final Vector<Rental> rentals = new Vector<> ();
 
